@@ -1,0 +1,16 @@
+printf("sdjfgsdjh");
+
+printf("%s", ... );
+va_list variable;
+
+
+va_start(variable);
+if %+1 = 's'
+	putstr(va_arg(variable, char * ))
+
+
+%D%S%i
+while (const char != '\0')
+
+putnombre(va_arg(variable, int))
+putstr(va_arg(variable, char *))
